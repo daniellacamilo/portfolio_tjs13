@@ -34,7 +34,7 @@ async function getAboutGitHub() {
       <article class="about-content">
         <h2>Sobre mim</h2>
         <p>
-		Eu sou Daniella Camilo, desenvolvedora Full Stack. Atualmente estou me especializando em JavaScript, React e Node.js. 
+		Eu sou Daniella Camilo, desenvolvedora Full Stack. Trabalho com JavaScript, React e Node.js. Sou estudando do curso de Análise e Desenvolvimento de Sistemas.
 		Tenho experiência em projetos acadêmicos e pessoais, em que pude aplicar meus conhecimentos em desenvolvimento web. 
 		Sou apaixonada por tecnologia e estou sempre na busca de aprender novas habilidades para aprimorar minha carreira como desenvolvedora.
 		</p>
